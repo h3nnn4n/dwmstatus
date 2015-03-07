@@ -1,8 +1,13 @@
 /* made by profil 2011-12-29.
 **
+** edited by h3nnn4n
+**
+** This code is GPLv3
+**
 ** Compile with:
 ** gcc -Wall -pedantic -std=c99 -lX11 status.c
 */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
